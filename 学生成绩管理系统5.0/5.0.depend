@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1423279990 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\according.c
+	"head_file.h"
+
+1423640260 e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\head_file.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<string.h>
+
+1423623835 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\dity.c
+	"head_file.h"
+
+1423279990 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\entry.c
+	"head_file.h"
+
+1423286560 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\expurgate.c
+	"head_file.h"
+
+1423279990 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\file_entering.c
+	"head_file.h"
+
+1423279990 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\file_saving.c
+	"head_file.h"
+
+1423279990 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\language.c
+	"head_file.h"
+
+1423279990 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\main.c
+	"head_file.h"
+
+1423635407 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\main_menu.c
+	"head_file.h"
+
+1423286865 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\sequencing.c
+	"head_file.h"
+
+1423643690 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\search.c
+	"head_file.h"
+
+1423643240 source:e:\程序设计\语言程序\c语言\程序\2015年\学生成绩管理系统\学生成绩管理系统5.0\modify.c
+	"head_file.h"
+

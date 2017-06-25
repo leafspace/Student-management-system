@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1418606366 source:e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418606921 e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\head_file.h
+	<stdio.h>
+	<stdlib.h>
+
+1418536410 source:e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\according.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418536410 source:e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\add.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418606908 source:e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\entry.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head_file.h"
+
+1418536410 source:e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\expurgate.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418536410 source:e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\sequencing.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418536365 source:e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\main_menu.c
+	<stdio.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418608678 source:e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\file_adding.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418536410 source:e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\file_entering.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418536410 source:e:\程序设计\c语言\2014年九月后\学生成绩管理系统\2.0\file_saving.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418718788 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\according.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418798418 e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\head_file.h
+	<stdio.h>
+	<stdlib.h>
+
+1418536410 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\add.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418697676 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\entry.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head_file.h"
+
+1418798117 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\expurgate.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head_file.h"
+
+1418704249 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\file_entering.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418706829 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\file_saving.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head_file.h"
+
+1418695721 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418706062 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\main_menu.c
+	<stdio.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418800797 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\sequencing.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418697927 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\2.0\file_adding.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"head_file.h"
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1418876723 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\3.0\according.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418870959 e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\3.0\head_file.h
+	<stdio.h>
+	<stdlib.h>
+
+1418879152 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\3.0\expurgate.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head_file.h"
+
+1418876908 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\3.0\file_entering.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418877668 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\3.0\file_saving.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"head_file.h"
+
+1418890331 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\3.0\language.c
+	<stdio.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418871067 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418890303 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\3.0\main_menu.c
+	<stdio.h>
+	<stdlib.h>
+	"head_file.h"
+
+1418890185 source:e:\程序设计\c语言\程序\2014年\2014年九月后\学生成绩管理系统\3.0\sequencing.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	"head_file.h"
+
